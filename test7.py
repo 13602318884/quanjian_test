@@ -13,6 +13,9 @@ from selenium import webdriver
 from time import sleep
 import unittest
 import sys
+from BSTestRunner import BSTestRunner
+from  HTMLTestRunner import HTMLTestRunner
+
 
 #reload(sys)
 from imp import reload
